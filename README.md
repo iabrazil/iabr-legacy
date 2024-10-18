@@ -1,3 +1,7 @@
+Inteligência Artificial Brasileira(iabr): O futuro das moedas de privacidade
+
+Inteligência Artificial Brasileira(iabr): é uma moeda de privacidade de última geração construída no robusto protocolo Cryptonote, garantindo confidencialidade e segurança de transações incomparáveis. Com um fornecimento máximo de 300 milhões, iabr segue uma curva de emissões meticulosamente desenhada, proporcionando uma distribuição previsível e justa ao longo do tempo. A moeda aproveita o algoritmo Cryptonight, conhecido por sua resistência ASIC e eficiência na mineração de CPU e GPU, promovendo a descentralização. A IABR está empenhada em proteger a sua privacidade financeira, mantendo ao mesmo tempo uma rede segura e descentralizada, tornando-a uma escolha de destaque no domínio das criptomoedas. Junte-se a nós na construção de um futuro onde a privacidade e a segurança são fundamentais.
+
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
